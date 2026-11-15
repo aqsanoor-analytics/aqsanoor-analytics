@@ -43,8 +43,7 @@ I'm an aspiring Data Analyst based in Multan, Pakistan, currently pursuing a BS 
 
 ## GitHub Stats
 
-![Aqsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqsanoor-analytics&show_icons=true&theme=default)
-
+![Aqsa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqsanoor-analytics)
 ## Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/aqsa-noor-75629b448/
